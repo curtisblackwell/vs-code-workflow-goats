@@ -24,11 +24,13 @@
         "url": "https://github.com/curtisblackwell/vs-code-workflow-goats"
     },
     "extensionPack": [
-        "editorconfig.editorconfig",
-        "annsk.alignment",
-        "oderwat.indent-rainbow",
-        "wayou.vscode-todo-highlight",
-        "kevinkyang.auto-comment-blocks",
-        "wmaurer.change-case"
+        "ms-vscode.atom-keybindings",
+        "alefragnani.project-manager",
+        "in4margaret.compareit",
+        "patbenatar.advanced-new-file",
+        "sleistner.vscode-fileutils",
+        "renatorodrigues.json-to-js",
+        "eriklynd.json-tools",
+        "ibm.output-colorizer"
     ]
 }
